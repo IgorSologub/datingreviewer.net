@@ -43,7 +43,6 @@ public class SugarDaddiesTest extends BaseTest {
     public void footerButtonsTest () {
         int goodTitlesCount = 0;
         for (int i = 1; i <= 7; i++) {
-            if (i == 7) {i++; goodTitlesCount++;}
             basePage.waitOneSeconds();
             basePage.footerButtonClick(i);
             basePage.waitOneSeconds();
