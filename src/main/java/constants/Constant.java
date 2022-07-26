@@ -72,7 +72,8 @@ public class Constant {
                 "flirtyamateurs.com",
                 "Flirtymature",
                 "Together2Night",
-                "localcrush.co.uk"
+                "localcrush.co.uk",
+                "Together2night.com"
         );
         public static final int NUMBER_OF_VISIT_SITE_REG_BUTTONS = 24;
         public static final int NUMBER_OF_PICTURE_REG_BUTTONS = 3;
