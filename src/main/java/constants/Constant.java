@@ -119,7 +119,8 @@ public class Constant {
                 "Grindr",
                 "OkCupid",
                 "Fatflirt",
-                "Fatflirt"
+                "Fatflirt",
+                "Women Seeking Women"
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
                 "Samantha",
