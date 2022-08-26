@@ -88,7 +88,10 @@ public class Constant {
                 "wants to trade nude pics with you",
                 "Casualdating",
                 "Loveeto.com",
-                "Find the one who's right for you"
+                "Find the one who's right for you",
+                "BeSexcited",
+                "My Dirty Neighbour",
+                "Online Hookups"
         );
         public static final int NUMBER_OF_VISIT_SITE_REG_BUTTONS = 24;
         public static final int NUMBER_OF_PICTURE_REG_BUTTONS = 3;
