@@ -181,7 +181,7 @@ public class LocalHookupTest extends BaseTest {
         assertTrue(localHookupPage.faqCollapseTextCheck());
     }
 
-    @Test(invocationCount = 2, successPercentage = 99)
+    @Test(invocationCount = 2, successPercentage = 90)
     public void articlesButtonTest () {
         basePage.closePopup();
         int goodTitlesCount = 0;
